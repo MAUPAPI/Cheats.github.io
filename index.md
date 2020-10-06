@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<img src="https://www.photoeffekte.com/images/202010/04/mediana_135007987861536787.jpg?time=1601827234" alt="Derp" width="213" height="120">
 
-You can use the [editor on GitHub](https://github.com/MAUPAPI/Cheats.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Invisible Name
+1. Copy this Letter:[ㅤ](https://www.compart.com/en/unicode/U+3164)<--(yes it is really here)
+2. paste it in Among us
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hacks for Among us
+1. Delete Among us
+2. Download the mod from [HappyMod.com](https://www.happymod.com/among-us-mod/com.innersloth.spacemafia/downloading.html)
+3. start it and alow app overlay
+4. open it and enjoy your hacks
 
-### Markdown
+### Among us free for PC (no virus)
+1. go to [BlueStacks.com](https://www.bluestacks.com/)
+2. download it
+3. download Among us from the PlayStore in Bluestacks
+4. Enjoy it
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="https://logosmarken.com/wp-content/uploads/2020/04/Minecraft-Logo.png" alt="Derp" width="213" height="120">
 
-```markdown
-Syntax highlighted code block
+### Minecraft Aristois hack Client
+1. Download <a href="Aristois-Free.jar" download>Aristois</a> hack client
+2. open it and click trought the istaller
+3. Enjoy your hacks
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MAUPAPI/Cheats.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
