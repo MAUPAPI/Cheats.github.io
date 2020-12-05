@@ -7,3 +7,10 @@
 
 <a href="Webcamframe.png" download>Download</a>
 
+## Updates
+- [x] Webcam frame
+- [ ] Alert box
+- [ ] complete overlay
+- [ ] several scenes
+
+
